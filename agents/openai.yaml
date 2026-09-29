@@ -1,0 +1,4 @@
+interface:
+  display_name: "讲座照片还原PPT"
+  short_description: "将讲座照片保真校正为PPT，支持逐页点评、真实补图和完整性检查"
+  default_prompt: "请使用 $photo-to-ppt，将指定文件夹中的讲座照片保真还原为PPT，保留全部照片，按原图证据处理遮挡，并交付预览和问题清单。"
